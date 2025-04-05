@@ -12,7 +12,7 @@ Publicly Available at __________
 ---
 
 ## **Tech Stack**
-CaffTrack is built with a modern **full-stack architecture**, leveraging **______** to deliver a robust and scalable platform.
+______ is built with a modern **full-stack architecture**, leveraging **______** to deliver a robust and scalable platform.
 
 ### **Frontend**
 - **Framework:** React with TypeScript
